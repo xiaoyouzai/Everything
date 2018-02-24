@@ -1,11 +1,16 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">@color/profAccent</item>
+        <!--浅色-->
+        <item name="colorPrimary">@color/profPrimary</item>
+        <!--深色-->
+        <item name="colorPrimaryDark">@color/profPrimaryDark</item>
+        <!--状态栏颜色，默认使用colorPrimaryDark-->
+        <item name="android:statusBarColor">@color/profStatusBar</item>
+
     </style>
 
 </resources>
