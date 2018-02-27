@@ -5,6 +5,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.happy.everything.base.BaseFragment;
+
 /**
  * Created by chenyizhang on 24/02/2018.
  */

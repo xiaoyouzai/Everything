@@ -1,4 +1,4 @@
-package com.happy.everything;
+package com.happy.everything.base;
 
 import android.support.v7.app.AppCompatActivity;
 

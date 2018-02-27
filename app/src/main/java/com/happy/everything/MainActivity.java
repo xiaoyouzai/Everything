@@ -5,6 +5,9 @@ import android.support.v4.app.Fragment;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.happy.everything.base.BaseActivity;
+import com.happy.everything.tool.FragmentSwitcher;
+
 import java.util.ArrayList;
 import java.util.List;
 
